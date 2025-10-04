@@ -64,6 +64,6 @@ Some complex business queries answered via SQL :contentReference[oaicite:2]{inde
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Superstore%20Sales%20Insights.png)
+![Dashboard Preview](Soperstore Sales.png)
 
 ---
