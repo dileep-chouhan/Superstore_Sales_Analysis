@@ -64,6 +64,6 @@ Some complex business queries answered via SQL :contentReference[oaicite:2]{inde
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Soperstore Sales.png)
+https://github.com/dileep-chouhan/Superstore_Sales_Analysis/blob/main/Soperstore%20Sales.png
 
 ---
